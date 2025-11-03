@@ -12,7 +12,7 @@ I specialize in:
 - Advocating for user-centered content design
 - Mentoring junior writers and fostering documentation culture
 
-## 🔍 What You'll Find Here
+## Reviewing samples
 
 - **Technical Documentation Samples**  
   Real-world examples of user guides, API documentation, and product manuals.
